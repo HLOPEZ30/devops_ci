@@ -10,7 +10,7 @@ public class BasicApplicationTests  {
 
     @Test
     void contextLoads() {
-       String message = "Prueba de un cambio";
+       String message = "Prueba de un segundo cambio";
         assertNotNull(message);
     }
 }
