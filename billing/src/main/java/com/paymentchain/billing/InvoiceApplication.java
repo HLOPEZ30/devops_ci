@@ -8,6 +8,9 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 
 
 
+
+
+
 @SpringBootApplication(exclude = { SecurityAutoConfiguration.class })
 public class InvoiceApplication {
 
