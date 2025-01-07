@@ -1,0 +1,7 @@
+# Ignorar directorios generados
+/billing/target/
+/target/
+
+# Archivos de configuración locales
+*.propertiesgit add .gitignore
+git commit -m "Update .gitignore to exclude build files"
